@@ -108,5 +108,5 @@
 * Protezione dei sistemi informativi durante i test di audit
 
 
-### [avanti](funzionalità_soc.md) 
+### [avanti](Funzionalità_SOC.md) 
 ### [indietro](procedure_di_sicurezza.md)
