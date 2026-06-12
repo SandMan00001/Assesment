@@ -39,4 +39,4 @@ delle decisioni assunte in sede di sviluppo e di convalida, analisi dei risultat
 operativa in virtù dei presidi di security, business continuity e disaster recovery.
 
 ### [avanti](procedure_di_sicurezza.md) 
-### [indietro](AI_audit.md)
+### [indietro](README.md)
