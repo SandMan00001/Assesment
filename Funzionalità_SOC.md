@@ -1,4 +1,3 @@
-amarenidasdasda# SOC
 
 ## FUNZIONALITA' SOC
 
